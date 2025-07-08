@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Buenos Aires            Rome        _b23956</name>
+   <tag></tag>
+   <elementGuidId>ed7f5d70-b9b2-44e6-b46e-6db1d7c8eca8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='toPort']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;toPort&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>select[name=&quot;toPort&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>34e6f9a4-f43e-42e9-96cf-a45cb9cbdd9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>toPort</value>
+      <webElementGuid>705ffae9-eec3-4389-9fb5-c684219a62e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-inline</value>
+      <webElementGuid>dc2eb63e-daaf-4a46-b349-4e32a2d53b00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Buenos Aires
+            Rome
+            London
+            Berlin
+            New York
+            Dublin
+            Cairo
+        </value>
+      <webElementGuid>43b639db-037c-4117-b10d-9b7156ed90a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container&quot;]/form[1]/select[@class=&quot;form-inline&quot;]</value>
+      <webElementGuid>51962ad0-439a-4195-81e9-4875017f7cf2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='toPort']</value>
+      <webElementGuid>80cf33a5-1e9e-45f4-a5e6-2c0685e1123e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose your destination city:'])[1]/following::select[1]</value>
+      <webElementGuid>8dfbf06f-5be1-44d3-b12b-3a3dac9188b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose your departure city:'])[1]/following::select[2]</value>
+      <webElementGuid>4674b037-2bef-4563-91ad-d4bc00420b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select[2]</value>
+      <webElementGuid>963934a8-dc30-4253-a05d-cf7769e6cdb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'toPort' and (text() = '
+            Buenos Aires
+            Rome
+            London
+            Berlin
+            New York
+            Dublin
+            Cairo
+        ' or . = '
+            Buenos Aires
+            Rome
+            London
+            Berlin
+            New York
+            Dublin
+            Cairo
+        ')]</value>
+      <webElementGuid>723c3501-5c5a-44a8-88a7-3cdeeb0efa32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
